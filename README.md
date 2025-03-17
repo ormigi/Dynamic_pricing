@@ -1,7 +1,7 @@
 # Dynamic_pricing -Demonstrates a rule-based pricing strategy based on competitor trends
 As a Data Scientist at SUMMUM, I was tasked with building an analytics dashboard to monitor our hotel's pricing strategy and market positioning. Our competitors, H1 and H2, operate in the same city, and we need to understand how our pricing compares. The goal is to analyze trends, optimize pricing, and stay competitive.
 
-Adjusting Hotel price based on Competition prices for one hotel and two other competitors in the area.
+The attached notebook shows how to adjust Hotel room price based on Competition prices for one hotel and two other competitors in the area.
 
 Follow up development:
 
